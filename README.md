@@ -1,6 +1,6 @@
 # Conversor de Unidades
 
-Este é um projeto de conversor de unidades em Python que permite ao usuário converter entre diferentes unidades de medida em várias categorias, como comprimento, temperatura, peso/massa, tempo, velocidade e área.
+Este é um projeto de converter unidades em Python que permite ao usuário converter entre diferentes unidades de medida em várias categorias, como comprimento, temperatura, peso/massa, tempo, velocidade e área.
 
 ## Funcionalidades
 
